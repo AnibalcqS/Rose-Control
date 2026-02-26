@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "554231413128",
+    "project_id": "rose-control-6c247",
+    "storage_bucket": "rose-control-6c247.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554231413128:android:db1fe7c569ca71993d223d",
+        "android_client_info": {
+          "package_name": "app.aplication.misapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554231413128-2tevea0hlska6dkabsrnoi1k6taagcnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.aplication.misapps",
+            "certificate_hash": "b3d282e5e319ca6bba3131a0b1339fdc63ea48bb"
+          }
+        },
+        {
+          "client_id": "554231413128-clrc9i0ib7rl6e226qk57830gdnjgfrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtuCSTB-qREPEovO7K4ZTYN0Ccc1W1GA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554231413128-clrc9i0ib7rl6e226qk57830gdnjgfrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
