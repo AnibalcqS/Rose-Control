@@ -57,27 +57,6 @@ Puedes descargar la aplicación desde el siguiente enlace (GitHub Release):
 
 [Descargar RoseControl.apk](https://github.com/AnibalcqS/Rose-Control/releases)  
 
----
-
-## 🎥 Video explicativo
-
-En este video se muestra **el desarrollo de la aplicación** y se explican los comentarios del código:  
-
-- Explicación de cada pantalla y sus funciones  
-- Cómo se implementó la selección y eliminación de agroquímicos  
-- Uso de Room y Firebase para almacenamiento  
-
-*(Adjuntar enlace al video cuando esté disponible)*  
-
----
-
-## 📸 Imágenes del proyecto
-
-![Pantalla Home](imagenes/home.png)  
-![Pantalla Agroquímicos](imagenes/agroquimicos.png)  
-![Pantalla Carrito](imagenes/carrito.png)  
-
-> Nota: Puedes colocar tus capturas reales en la carpeta `imagenes/` del repo y referenciarlas así.  
 
 ---
 
